@@ -1,8 +1,8 @@
 variable "aws_access_key" {
-  default = "AKIA2ODHH5HSCXXUKDLM"
+  default = ""
 }
 variable "aws_secret_key" {
-  default = "FGrbZgxQr04L8b2Iww0QO+WsXlwj2DuD6Igj+pJW"
+  default = ""
 }
 variable "aws_region" {
   description = "EC2 Region for the VPC"
