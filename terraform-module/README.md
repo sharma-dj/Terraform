@@ -37,6 +37,3 @@ ii) Use the key to log in to the SSH client as shown in the following example, w
 ```
 ssh -i terraform-key demo@192.237.248.66
 ```
-
-
-```
